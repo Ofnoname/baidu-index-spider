@@ -20,3 +20,5 @@
 - 地区映射表在webui/public下
 
 - 爬虫类程序随着 api 变动随时可能失效，请注意时效
+
+- 讲解：[https://www.cnblogs.com/ofnoname/p/18228567]
